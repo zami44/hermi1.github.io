@@ -16,3 +16,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" width="50" height="50" /></a>
 </p>
 
+## Project
+### Student Grading System
+<img src="Assets/img/grade.jpg" />
+
+This project was made using Java Swing GUI and SQL database. We used a letter grading system (A, B, C, D, F) with corresponding grade points. Each course is worth a certain number of credits. GPA is calculated by averaging the grade points earned, weighted by credits. Higher grades and more credits lead to a higher GPA.
