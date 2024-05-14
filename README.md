@@ -21,3 +21,12 @@
 <img src="Assets/img/grade.jpg" />
 
 This project was made using Java Swing GUI and SQL database. We used a letter grading system (A, B, C, D, F) with corresponding grade points. Each course is worth a certain number of credits. GPA is calculated by averaging the grade points earned, weighted by credits. Higher grades and more credits lead to a higher GPA.
+
+## My Socials
+
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100010441387036" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:2023_Facebook_icon.svg" width="50" height="50" /></a>
+<a href="https://https://steamcommunity.com/profiles/76561198856054714" target="_blank" rel="noreferrer"><img src="[https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:2023_Facebook_icon.svg](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/hermi1/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg#/media/File:LinkedIn_Logo_2013_(2).svg" width="50" height="50" /></a>
+<a href="https://www.youtube.com/c/ZamiW71" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Category:YouTube_logos#/media/File:Logo_Canale_YouTube_(2013-2017).jpg" width="50" height="50" /></a>
+</p>
