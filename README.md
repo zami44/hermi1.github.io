@@ -25,7 +25,7 @@ This project was made using Java Swing GUI and SQL database. We used a letter gr
 ## My Socials
 
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100010441387036" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:2023_Facebook_icon.svg" width="50" height="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010441387036" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:2023_Facebook_icon.svg" width="50" height="50" alt="Assets/img/Facebook_icon.jpg" /></a>
 <a href="https://https://steamcommunity.com/profiles/76561198856054714" target="_blank" rel="noreferrer"><img src="[https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:2023_Facebook_icon.svg](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/hermi1/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg#/media/File:LinkedIn_Logo_2013_(2).svg" width="50" height="50" /></a>
 <a href="https://www.youtube.com/c/ZamiW71" target="_blank" rel="noreferrer"><img src="https://en.m.wikipedia.org/wiki/File:YouTube_Logo_2017.svg" width="50" height="50" /></a>
