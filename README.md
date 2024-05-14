@@ -1,6 +1,6 @@
-#- 👨‍💻  Aspiring Data Scientist 
-#- 🌍  I'm based in Bangladesh
-#- ✉️  You can reach me by [email](mailto:zami35-708@diu.edu.bd)
+# - 👨‍💻  Aspiring Data Scientist 
+# - 🌍  I'm based in Bangladesh
+# - ✉️  You can reach me by [email](mailto:zami35-708@diu.edu.bd)
 
 ## Education
 - S.S.C. | Savar Adhar Chandra Government High School (_2018_) | GPA- 4.50								       		
